@@ -1,3 +1,2 @@
-DO NOT COPY THESE. PLEASE DO THE EXERCISES BY YOURSELF AND BE SURE TO UNDERSTAND THEM.
-
-All exercises I managed to do trough the Piscine. Not all piscines exercises are present here since I was not able to complete all of them.
+The piscine is the first step in the 42 journey.
+This is a simmple repository with a dump of all my piscine exercises.
